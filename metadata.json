@@ -1,0 +1,7 @@
+{
+  "name": "SmartGrid AI Analytics",
+  "description": "An AI-driven dashboard for Electricity Boards to monitor real-time energy consumption, forecast demand, and manage grid stability using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
